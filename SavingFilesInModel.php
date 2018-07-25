@@ -1,12 +1,12 @@
 <?php
 
-namespace app\components;
+namespace oshchyp\SavingFilesInModel;
 
 use Yii;
 use yii\base\Component;
 use yii\web\UploadedFile;
 
-class SaveFiles extends Component
+class SavingFilesInModel extends Component
 {
     private $_model;
 
