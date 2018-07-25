@@ -1,0 +1,18 @@
+{
+  "name": "oshchyp/seving-files-in-model",
+  "type": "yii2-module",
+  "description": "Admin panel for Yii2",
+  "authors": [
+    {
+      "name": "Oshchyp Denys",
+      "email": "oshchyp.denys@gmail.com"
+    }
+  ],
+
+  "autoload": {
+    "psr-4": {
+      "oshchyp\\sevingFilesInModel\\": ""
+    }
+  },
+  "version": "dev-master"
+}
